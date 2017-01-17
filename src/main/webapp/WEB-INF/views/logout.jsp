@@ -13,7 +13,7 @@
 
 <h1>
 <%session.invalidate();%>
-<font color="blue">You are now logged out!!
+<font color="blue">You are now logged out!!!
  
  
 <a href="login" >GoBack</a>
